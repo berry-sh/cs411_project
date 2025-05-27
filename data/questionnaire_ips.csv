@@ -1,0 +1,14 @@
+﻿Surname,"First name","Email address",State,"Started on",Completed,"Time taken",Grade/10.00,"Response 1","Response 2","Response 3","Response 4","Response 5","Response 6"
+Chebbi,Eya,eya.chebbi1234@gmail.com,Finished,"11 May 2025  4:57 PM","11 May 2025  4:57 PM","26 secs",5.00,Female,"More than 25 years old",Master,"Software Engineering",University,Nooo
+Bejar,Omar,omarbejar2004@gmail.com,Finished,"15 May 2025  5:03 PM","15 May 2025  5:07 PM","3 mins 54 secs",6.67,Male,"18-22 years old",Bachelor,"Medical Biotechnology",University,"Gym 3-4 times a week"
+Brunner,Aline,aline.brunner@epfl.ch,Finished,"15 May 2025  6:30 PM","15 May 2025  6:31 PM","52 secs",5.00,Female,"23-25 years old",Master,Neuro-X,University,"yes, pilates once a week"
+Boughizane,Emna,emna.boughizane@epfl.ch,Finished,"15 May 2025  9:23 PM","15 May 2025  9:24 PM","55 secs",5.00,Female,"18-22 years old",Bachelor,Mathematics,University,No
+Afful,Chiraene,chiraene14@gmail.com,Finished,"16 May 2025  4:28 PM","16 May 2025  4:31 PM","3 mins 19 secs",5.00,Female,"More than 25 years old",Doctorate,Medicine,University,"Gyming 4 times a week"
+Betschen,Loïc,lbetschen@student.ethz.ch,Finished,"17 May 2025  3:04 PM","17 May 2025  3:05 PM","1 min 9 secs",6.67,Male,"18-22 years old",Bachelor,"Mechanical engineering",University,"Fitness 4x a week, random sport weekly"
+Japhta,Asher,asherjaphta@gmail.com,Finished,"18 May 2025  4:02 PM","18 May 2025  4:05 PM","3 mins",6.67,Male,"23-25 years old",Master,"Engineering and Entrepreneurship",University,"Workout 4 times a week"
+Kwizera,Clair,clair.mutebi@yahoo.com,Finished,"18 May 2025  4:15 PM","18 May 2025  4:16 PM","55 secs",5.00,Female,"More than 25 years old",Master,"Computer Science","High school","Go to the gym 2-3 times a week"
+Attia,Iman,iman.attia@epfl.ch,Finished,"18 May 2025  5:48 PM","18 May 2025  5:49 PM","1 min 3 secs",5.00,Female,"23-25 years old",Master,Cybersecurity,University,No
+Yerly,Patrick,yerlypatrickch@gmail.com,Finished,"19 May 2025  8:08 AM","19 May 2025  8:09 AM","50 secs",6.67,Male,"23-25 years old",Bachelor,"Material Science","Secondary school",No
+Abdelaal,Yara,yara.abdelaal@epfl.ch,"In progress","22 May 2025  4:18 PM",-,-,-,-,-,-,-,-,-
+"Ben Mustapha",Raki,raki.benmustapha@epfl.ch,Finished,"23 May 2025  8:25 PM","23 May 2025  8:26 PM","1 min 30 secs",6.67,Male,"18-22 years old",Bachelor,Micro-Engineering,University,"Football - every week"
+"Ben Sayah",Lina,lina.bensayah@epfl.ch,Finished,"27 May 2025  5:26 PM","27 May 2025  5:27 PM","1 min 6 secs",3.33,Female,"18-22 years old","bachelor second year",microengineering,University,-

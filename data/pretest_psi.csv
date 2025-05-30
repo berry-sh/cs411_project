@@ -1,4 +1,4 @@
-﻿Surname,"First name","Email address",State,"Started on",Completed,"Time taken",Grade/9.00,"Q. 1 /1.50","Q. 2 /1.50","Q. 3 /1.00","Q. 4 /1.00","Q. 5 /1.00","Q. 6 /3.00"
+Surname,"First name","Email address",State,"Started on",Completed,"Time taken",Grade/9.00,"Q. 1 /1.50","Q. 2 /1.50","Q. 3 /1.00","Q. 4 /1.00","Q. 5 /1.00","Q. 6 /3.00"
 Baccari,Mariem,mariem.baccari@epfl.ch,Finished,"12 May 2025  8:17 AM","12 May 2025  8:21 AM","4 mins 19 secs",7.00,1.50,1.50,0.00,1.00,0.00,3.00
 Bélisle,"Samuel Pierre",samuel.belisle@epfl.ch,Finished,"12 May 2025  2:32 PM","12 May 2025  2:38 PM","5 mins 53 secs",7.00,1.50,1.50,0.00,1.00,0.00,3.00
 Chaker,Amine,amine.chaker.1996@gmail.com,Finished,"12 May 2025  7:52 PM","12 May 2025  7:55 PM","3 mins 47 secs",5.50,1.50,0.00,0.00,1.00,0.00,3.00
@@ -9,4 +9,5 @@ Bentsi-Enchill,Ekua,ekuatwiba.bentsi-enchill@unil.ch,Finished,"16 May 2025  9:42
 Li,Changling,changling38@gmail.com,Finished,"18 May 2025  4:11 PM","18 May 2025  4:21 PM","9 mins 34 secs",4.00,0.00,0.00,0.00,1.00,0.00,3.00
 roniger,henri,sauce.pepito@gmail.com,Finished,"18 May 2025  6:56 PM","18 May 2025  7:05 PM","9 mins 2 secs",3.00,0.00,0.00,0.00,0.00,0.00,3.00
 Ahmed,Hana,Hana.Ahmed@etu.unige.ch,Finished,"19 May 2025  3:03 PM","19 May 2025  3:08 PM","4 mins 32 secs",4.50,0.30,0.00,0.20,1.00,0.00,3.00
-"Overall average",,,,,,,4.49,0.63,0.30,0.06,0.80,0.00,2.70
+Mahmoud,Dina,dshawky96@gmail.com,Finished,"28 May 2025  4:38 PM","28 May 2025  4:42 PM","3 mins 56 secs",8.00,1.50,1.50,0.00,1.00,1.00,3.00
+"Overall average",,,,,,,4.81,0.71,0.41,0.05,0.82,0.09,2.73

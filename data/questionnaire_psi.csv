@@ -1,4 +1,4 @@
-﻿Surname,"First name","Email address",State,"Started on",Completed,"Time taken",Grade/10.00,"Response 1","Response 2","Response 3","Response 4","Response 5","Response 6"
+Surname,"First name","Email address",State,"Started on",Completed,"Time taken",Grade/10.00,"Response 1","Response 2","Response 3","Response 4","Response 5","Response 6"
 Baccari,Mariem,mariem.baccari@epfl.ch,Finished,"9 May 2025  11:34 AM","9 May 2025  11:36 AM","1 min 19 secs",6.00,Female,"18-22 years old",Master,"Computer Science",University,"Gym 2-3 times a week"
 Bélisle,"Samuel Pierre",samuel.belisle@epfl.ch,Finished,"12 May 2025  2:29 PM","12 May 2025  2:30 PM","1 min 15 secs",6.00,Male,"18-22 years old",Master,"Computer Science (and Math for bachelor)","High school","Ultimate frisbee and Bouldering, about once a week in total"
 Chaker,Amine,amine.chaker.1996@gmail.com,Finished,"12 May 2025  7:50 PM","12 May 2025  7:51 PM","58 secs",6.00,Male,"More than 25 years old",Master,"Applied Mathematics",University,"Yes. Running twice a week"
@@ -9,3 +9,4 @@ Bentsi-Enchill,Ekua,ekuatwiba.bentsi-enchill@unil.ch,Finished,"16 May 2025  9:40
 Li,Changling,changling38@gmail.com,Finished,"18 May 2025  4:09 PM","18 May 2025  4:11 PM","1 min 42 secs",6.00,Female,"More than 25 years old","Got my MSc, currently PhD student","Life Sciences Engineering","Primary school","Bouldering/lead climbing, twice a week"
 roniger,henri,sauce.pepito@gmail.com,Finished,"18 May 2025  6:51 PM","18 May 2025  6:56 PM","4 mins 7 secs",6.00,Male,"23-25 years old",master,physics,"High school","yes, bike (14km, 5 times per week ) + workout at home sometimes (1-2 per week)"
 Ahmed,Hana,Hana.Ahmed@etu.unige.ch,Finished,"19 May 2025  3:02 PM","19 May 2025  3:03 PM","26 secs",4.00,Female,"18-22 years old",Master,Economics,University,-
+Mahmoud,Dina,dshawky96@gmail.com,Finished,"28 May 2025  4:36 PM","28 May 2025  4:37 PM","1 min 3 secs",6.00,Female,"More than 25 years old",PhD,"Computer Engineering",University,"Swimming, once a week"
